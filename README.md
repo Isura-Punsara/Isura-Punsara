@@ -37,12 +37,11 @@ I enjoy solving real-world problems using clean architecture, data-driven design
 
   <!-- Oracle Icon Styled Like Skillicons -->
   <span style="
-    display:inline-flex;
     align-items:center;
     justify-content:center;
     width:60px;
     height:60px;
-    background:#1e1e1e;
+    background:#1e1111;
     border-radius:12px;
     margin:4px;
   ">
