@@ -1,6 +1,6 @@
 # 🌟 **Isura Punsara — Software Engineering Undergraduate**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Isura+Punsara;Software+Engineering+Undergraduate;Full-Stack+Developer;IoT+%7C+Mobile+%7C+Web+Enthusiast;Open+to+Internships+in+2025" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00CEC8&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Isura+Punsara;Software+Engineering+Undergraduate;Full-Stack+Developer;IoT+%7C+Mobile+%7C+Web+Enthusiast;Open+to+Internships+in+2025" />
 </p>
 
 ---
