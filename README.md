@@ -110,7 +110,7 @@ I enjoy solving real-world problems using clean architecture, data-driven design
 
 # 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Isura-Punsara/Isura-Punsara/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Isura-Punsara/Isura-Punsara/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
