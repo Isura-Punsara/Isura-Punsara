@@ -34,17 +34,6 @@ I enjoy solving real-world problems using clean architecture, data-driven design
 ### 🗄️ **Databases**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="60"/>
-
-  <!-- Oracle Icon Styled Like Skillicons -->
-  <span style="
-    align-items:center;
-    justify-content:center;
-    width:60px;
-    height:60px;
-    background:#1e1111;
-    border-radius:12px;
-    margin:4px;
-  ">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
   </span>
 </p>
