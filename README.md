@@ -1,6 +1,6 @@
 # 🌟 **Isura Punsara — Software Engineering Undergraduate**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00CEC8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Isura+Punsara;Software+Engineering+Undergraduate;Full-Stack+Developer;IoT+%7C+Mobile+%7C+Web+Enthusiast;Open+to+Internships+in+2025" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00CEC8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Isura+Punsara;Software+Engineering+Undergraduate;Full-Stack+Developer;IoT+%7C+Mobile+%7C+Web+Enthusiast;Open+to+Internships" />
 </p>
 
 ---
@@ -95,12 +95,10 @@ I enjoy solving real-world problems using clean architecture, data-driven design
 
 # 📊 **GitHub Stats**
 <p align="center">
-  <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isura-Punsara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isura-Punsara&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isura-Punsara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isura-Punsara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </p>
 
-</p>
 
 ---
 
